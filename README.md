@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhil-Kumar12&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil-Kumar12" /> </p>
+<h1 align="center">Hi 👋, I'm Chandraprabha</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandraprabha20&label=Profile%20views&color=0e75b6&style=flat" alt="Chandraprabha20" /> </p>
 <img align="right" width="40%" height"40%" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif">
 
 - 🔭 I’m currently working on **DigiComp**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 👯 I’m looking to collaborate on **Web development**
+- 👯 I’m looking to collaborate on **Data Analytics Projects**
 
-- 📫 How to reach me **nbaghel12@gmail.com**
+- 📫 How to reach me **Chandraprabha2012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -92,5 +92,5 @@
         </a>
       </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Kumar12&show_icons=true&locale=en" alt="Nikhil-Kumar12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chandraprabha20&show_icons=true&locale=en" alt="Chandraprabha20" /></p>
 
