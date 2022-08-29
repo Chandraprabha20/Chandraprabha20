@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandraprabha20&label=Profile%20views&color=0e75b6&style=flat" alt="Chandraprabha20" /> </p>
 <img align="right" width="40%" height"40%" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif">
 
-- 🔭 I’m currently working on **DigiComp**
+- 🔭 I’m currently working on **Analytics Project**
 
 - 🌱 I’m currently learning **Data Analytics**
 
@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nikhil-kumar-803a0b196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nikhil-Kumar12" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__ig_snowflake_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_abhishek134" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chandraprabha-687893191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nikhil-Kumar12" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_natural_click" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Chandraprabha20" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
